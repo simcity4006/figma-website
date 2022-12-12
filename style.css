@@ -1,0 +1,456 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Bangla&display=swap');
+.nav-link{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+text-transform: uppercase;
+margin-right: 20px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family:Inter !important;
+    clear: both;
+}
+.someMargin{
+    margin-top: 30px;
+}
+.sinG{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+}
+.sinG img{
+    background-color: #f5f6f7;
+    width: 30px;
+    height: 25px;
+    border-radius: 10px;
+    padding: 5px 8px;
+    margin-right: 5px;
+}
+.section1{
+    background: url(./images/Rectangle.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+
+}
+.section1 h1{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 74px;
+text-align: center;
+letter-spacing: -0.304762px;
+color: #FFFFFF;
+padding-top:100px;
+}
+.foysalP{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+text-align: center;
+color: #FFFFFF;
+}
+.topfootersection{
+background: #FFFFFF;
+box-shadow: 0px 3px 4px rgba(153, 155, 168, 0.15);
+border-radius: 8px;
+max-width: 945px;
+height: 80px;
+position: absolute;
+margin: 0 auto;
+bottom: -50px;
+left: 50%;
+z-index: 99;
+width: 98%;
+transform: translateX(-50%);
+}
+.topfootersection p{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+margin-top: 10px;
+margin-left: 10px;
+}
+.form-select{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+border: none !important;
+margin-top: -15px;
+}
+.falto{
+    margin-top: 30px;
+}
+.header_button{
+background: #7963F0;
+border-radius: 10px;
+color: white;
+padding: 7px 15px;
+font-weight: 700;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #FFFFFF;
+}
+.header_button:hover{
+    background-color: #7663F0;
+}
+.borderRight{
+    border-right: 1px solid black;
+    height: 40px;
+}
+.section2{
+    top: 120px;
+    margin-bottom: 100px;
+    position: relative;
+    clear: both;
+    bottom: 200px;
+}
+.section3 h3{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 36px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+position: relative;
+margin-bottom: 50px;
+margin-top: 50px;
+}
+.section3 h5{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+color: #0D0A19;
+}
+.section3 p{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+}
+.button1{
+    background: #f5f6f7;
+color: #7963F0 !important;
+border-radius: 8px !important;
+font-family: Inter;
+font-style: normal !important;
+font-size: 14px !important;
+text-align: center !important;
+letter-spacing: 0.1px !important;
+}
+.button2{
+background: linear-gradient(odeg, reba(255, 255, 255, 0.85), rgba(255,255, 255,0.85));
+color:#9A9EA7 !important;
+border-radius: 8px !important;
+font-weight: 500 !important;
+font-family: Inter;
+font-style: normal !important;
+font-size: 14px !important;
+line-height: 21px;
+text-align: center !important;
+letter-spacing: 0.1px !important;
+}
+.card{
+    border: none;
+}
+.findcarheader{
+    width: 98%;
+    height: 60px;
+    margin: 0px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+.section4{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.findcar{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 36px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+margin-bottom: 50px;
+top: 10px;
+}
+.arrowArea{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+text-align: right;
+color: #9A9EA7;
+}
+header p span{
+    margin: 0px 5px;
+}
+.arrowArea img{
+    width: 30px;
+    height: 30px;
+    background-color: #f5f6f7;
+    border-radius: 10px;
+}
+.arrowArea {
+    margin-top: -74px;
+}
+.sedam{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 36px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+}
+.proBtn{
+    background: #f5f6f7;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700 !important;
+    line-height: 18px !important;
+    font-size: 12px !important;
+    text-align: center;
+    color: #7963F0;
+}
+.product{
+    left: 0px;
+    position: relative;
+    transition: 1s;
+    margin: 0px 20px 50px 0px;
+}
+.btn-find{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+}
+.foysalA{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+letter-spacing: -0.1px;
+color: #0D0A19;
+border-radius: 8px;
+padding-left: 25px;
+padding-right: 25px;
+}
+.findfoysal{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 36px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+}
+.popularP{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+margin-bottom: 20px;
+}
+.popularP{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+margin-bottom: 50px;
+}
+.findItem{
+    display: flex;
+    margin-bottom: 25px;
+}
+.findItem img{
+    width: 40px;
+    height: 40px;
+}
+.first{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+color: #0D0A19;
+}
+.finddes{
+    margin-left: 15px;
+}
+.see{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+margin-top: -17px;
+}
+.marginArrowIcon img{
+    margin-left: 145px;
+    width: 20px;
+    height: 20px;
+}
+.finddes1{
+    display: flex;
+    justify-content: space-between;
+}
+.see1{
+    margin-top: 10px;
+}
+.section6{
+    background: #F5F6F7;
+}
+.amiN{
+    font-family: 'Inter';
+font-style: normal;
+font-weight:bold;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+padding-bottom: 15px;
+
+}
+.section6 p{
+line-height: 5px;
+padding-top:10px ;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 33px;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+}
+#copyright_area{
+    background-color:#f2f2f2;
+    padding: 20px 0;
+}
+.inner_copyright{
+    overflow: hidden;
+}
+.inner_copyright p{
+   margin: 0;
+   color: #919191;
+   font-size: 12px;
+}
+.left_copyright{
+    float: left;
+    width: 60%;
+}
+.right_copyright{
+    float: right;
+    text-align: right;
+    width: 40%;
+} 
+
+.foysalsuccess{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+margin-right: 10px;
+}
+.foysalsuccess2{
+    margin-right: 10px;
+}
+.procoder5{
+    margin-left: 10px;
+}
+
+/* foysal ar kothe mote ar por thek tumi responsive site hoye jao ar kon katha bolba na bolle tumar name ami nije kees korbo na bole tuma ke ami moja dimo bujesu */
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    .section1 h1{
+        font-size: 37px;
+    }
+    .foysalP{
+        font-size: 16px;
+    }
+    .topfootersection{
+        height: 100px;
+    }
+    .header_button{
+        width: 96%;
+        padding: 17px 0px;
+    }
+    .topfootersection{
+        position: relative;
+        top: 100px;
+    }
+    .section2{
+        margin-top: 320px;
+        position: relative;
+        text-align: center;
+    }
+    .section2 img{
+        margin: 10px;
+    }
+    .foysalP{
+        margin-bottom: 30px;
+    }
+    .carouselSection{
+        min-width:100%;
+        margin-right: 10px;
+    }
+    .findcar{
+        font-size: 20px;
+    }
+
+  }
